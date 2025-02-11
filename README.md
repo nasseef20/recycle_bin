@@ -7,8 +7,11 @@ A prototype app designed to locate and scan recycling bins across Dhaka, allowin
 
 ## Principle
 Recycle bins will be installed all around Dhaka, which can be located from the app.
+
 The recycle bins will contain digital screens that will show a QR code corresponding to the weight of plastics recycled.
-The app will scan this QR code and upon doing so, an appropriate amount of monetary reward will be added in the user's wallet.
+
+The app will scan this QR code and upon doing so, an appropriate amount of monetary reward will be added to the user's wallet.
+
 The reward can then be cashed out via Bangladesh's popular mobile banking services such as bKash or Nagad.
 
 ## QR code
