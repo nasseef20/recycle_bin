@@ -1,0 +1,21 @@
+{
+  "map_button": "Look for a Recycle বিন near you",
+  "scan_button": "Scan a Recycle বিন",
+  "wallet_button": "My wallet",
+  "loading_text": "Looking for a Recycle bin near you...",
+  "map_app_bar": "Click on a pin to obtain its location",
+  "no_location_services": "Location services are disabled. Please enable them to proceed.",
+  "no_location_permission": "Location permission denied. Please enable it to proceed.",
+  "no_google_map": "Could not open Google Maps.",
+  "no_camera_permission": "Camera Permission Denied",
+  "request_camera_permission": "Please provide camera permission to scan the QR code",
+  "ok": "OK",
+  "scan_qr_code": "Scan the QR Code shown",
+  "you_have_earned": "You have earned",
+  "from_recycling": "From recycling",
+  "grams": "g",
+  "check_wallet": "Check your wallet",
+  "your_balance": "Your balance",
+  "bkash": "Cash out via bKash",
+  "nagad": "Cash out via Nagad"
+}

@@ -1,0 +1,21 @@
+{
+  "map_button": "আপনার নিকটে রিসাইকেল বিন খুঁজুন",
+  "scan_button": "রিসাইকেল বিন স্ক্যান করুন",
+  "wallet_button": "আমার ওয়ালেট",
+  "loading_text": "আপনার নিকটে রিসাইকেল বিন সন্ধান করা হচ্ছে...",
+  "map_app_bar": "পিন এ চাপ দিয়ে জায়গা বের করুন",
+  "no_location_services": "Location services বন্ধ আছে, অনুগ্রহ করে চালু করুন",
+  "no_location_permission": "Location permission প্রদান করা হয়নি, অনুগ্রহ করে তা প্রদান করুন",
+  "no_google_map": "গুগোল ম্যাপ খোলা যাচ্ছে না",
+  "no_camera_permission": "ক্যামেরা ব্যবহারের অনুমতি দেওয়া হয়নি",
+  "request_camera_permission": "QR code স্ক্যান করতে অনুগ্রহ করে ক্যামেরা ব্যবহার করার অনুমতি প্রদান করুন",
+  "ok": "ঠিক আছে",
+  "scan_qr_code": "QR code স্ক্যান করুন",
+  "you_have_earned": "আপনি আয় করেছেন",
+  "from_recycling": "এতো রিসাইকেল করে",
+  "grams": "গ্রাম",
+  "check_wallet": "আপনার ব্যালেন্স চেক করুন",
+  "your_balance": "আপনার ব্যালেন্স",
+  "bkash": "বিকাশ এর মাধ্যমে ক্যাশ আউট করুন",
+  "nagad": "নগদ এর মাধ্যমে ক্যাশ আউট করুন"
+}
