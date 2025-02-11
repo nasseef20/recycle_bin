@@ -2,7 +2,9 @@
 
 ![Recycle bin app logo](https://raw.githubusercontent.com/nasseef20/recycle_bin/40e7c922b298a09d6ebbba9a81c67a3c72562e7b/assets/logo_horizontal.svg)
 
-A prototype app designed to locate and scan recycling bins across Dhaka, allowing users to earn rewards for recycling. Inspired by Germany's Pfand system, this app is part of our project, **Polystyrene Recycling and Urban Sustainability,** for the **Youth for Earth: An Innovative Case Solution Championship**, organized by the **Department of Soil, Water, and Environment, University of Dhaka.**
+A prototype app designed to locate and scan recycling bins across Dhaka, allowing users to earn rewards for recycling.
+
+Inspired by Germany's Pfand system, this app is part of our project, **"Polystyrene Recycling and Urban Sustainability,"** for the **Youth for Earth: An Innovative Case Solution Championship**, organized by the **Department of Soil, Water, and Environment, University of Dhaka.**
 
 
 ## Principle
@@ -42,5 +44,8 @@ This font contains localization, so please generate the l10n files by running `f
   flutter_svg: ^2.0.17
 ```
 # Sidenote
-This app seems to build properly under Android Studio v2023.3.1.18 (Jellyfish). Newer versions cause various conflicts related to gradle, jvm and kotlin versions. 
+This app seems to build properly under Android Studio v2023.3.1.18 (Jellyfish). 
+
+Newer versions cause various conflicts related to gradle, jvm and kotlin versions. 
+
 Details: https://www.victorcarreras.dev/2024/10/the-flutter-and-java-21-mystery-in.html?m=1
