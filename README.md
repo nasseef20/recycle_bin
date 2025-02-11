@@ -30,6 +30,6 @@ This font contains localization, so please generate the l10n files by running `f
   shared_preferences: ^2.5.2
   flutter_svg: ^2.0.17
 ```
-#Sidenote
+# Sidenote
 This app seems to build properly under Android Studio v2023.3.1.18 (Jellyfish). Newer versions cause various conflicts related to gradle, jvm and kotlin versions. 
 Details: https://www.victorcarreras.dev/2024/10/the-flutter-and-java-21-mystery-in.html?m=1
