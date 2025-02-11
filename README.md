@@ -14,7 +14,7 @@ The reward can then be cashed out via Bangladesh's popular mobile banking servic
 ## QR code
 To check the "Rewards" page of this prototype app, a QR code reading "dummy" is used.
 Scan this QR code in the "Scan Recycle Bin" menu.
-<img src="https://github.com/favicon.ico](https://raw.githubusercontent.com/nasseef20/recycle_bin/refs/heads/master/assets/dummy_qr_code.png" width="200">
+<img src="https://raw.githubusercontent.com/nasseef20/recycle_bin/refs/heads/master/assets/dummy_qr_code.png" width="200">
 
 
 ## Getting Started
