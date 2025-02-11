@@ -17,7 +17,7 @@ The app will scan this QR code and upon doing so, an appropriate amount of monet
 The reward can then be cashed out via Bangladesh's popular mobile banking services such as bKash or Nagad.
 
 ## QR code
-To check the "Rewards" page of this prototype app, a QR code reading "dummy" is used.
+To check the "Rewards" page of this prototype app, a QR code encoded with the text "dummy" is used.
 
 **Scan this QR code in the "Scan Recycle Bin" menu.**
 
@@ -26,7 +26,7 @@ To check the "Rewards" page of this prototype app, a QR code reading "dummy" is 
 
 ## Getting Started
 
-This font contains localization, so please generate the l10n files by running `flutter gen-l10n`.
+This project contains localization, so please generate the l10n files by running `flutter gen-l10n`.
 
 # Dependencies
 ```
