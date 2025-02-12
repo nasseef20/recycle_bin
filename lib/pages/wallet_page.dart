@@ -45,6 +45,14 @@ class _WalletPageState extends State<WalletPage> {
                 backgroundColor: Color(0xFFF6941C), 
               ),
             ),
+            SizedBox(height: 10),
+            ElevatedButton(
+              onPressed: () {},
+              child: Text(AppLocalizations.of(context)!.charity),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.green,
+              ),
+            ),
           ],
         )
       )
