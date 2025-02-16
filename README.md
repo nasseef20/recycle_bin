@@ -16,6 +16,8 @@ The app will scan this QR code and upon doing so, an appropriate amount of monet
 
 The reward can then be cashed out via Bangladesh's popular mobile banking services such as bKash or Nagad.
 
+A demo of the recycle bin screen can be found here: https://nasseef20.github.io/vending_machine/
+
 ## QR code
 To check the "Rewards" page of this prototype app, a QR code encoded with the text "dummy" is used.
 
