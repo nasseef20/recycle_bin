@@ -90,8 +90,8 @@ class _ScanPageState extends State<ScanPage> {
           for (final barcode in barcodes) {
             final scannedData = barcode.rawValue;
             debugPrint('QR Code found: ${barcode.rawValue}');
-            if(scannedData == 'dummy'){ //in a real recycle bin this will point to some secured code with the amount embedded
-              Navigator.pushReplacementNamed(context, '/reward_page').then((_){
+            if(scannedData == 'dummy' || RegExp(r'\d').hasMatch(scannedData!)){ //in a real recycle bin this will point to some secured code with the amount embedded
+              Navigator.pushReplacementNamed(context, '/reward_page', arguments: {'message':'$scannedData'}).then((_){
                 controller.stop();
               });
             }

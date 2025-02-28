@@ -13,13 +13,21 @@ class RewardPage extends StatefulWidget {
 }
 
 class _RewardPageState extends State<RewardPage> {
-  double reward = 20; //These numbers will be obtained from the qr code in reality.
-  double weight = 997;
+  //double reward = 20; //These numbers will be obtained from the qr code in reality.
+  //double weight = 997;
   String convertNum(double number, String locale) {
     return NumberFormat("0.##", locale).format(number);
   }
   @override
   Widget build(BuildContext context) {
+    double weight;
+    final args = ModalRoute.of(context)!.settings.arguments as Map;
+    if(args['message'] == 'dummy'){
+      weight = 997;
+    } else {
+      weight = double.parse(args['message']);
+    }
+    double reward = 0.02 * weight;
     final languageProvider = Provider.of<LanguageProvider>(context);
     bool isBangla = languageProvider.locale.languageCode == 'bn';
     return Scaffold(
